@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hii this is gopi 
 i am not a robo
 
+=======
+
+i am from west gangavaram
+i am a aws engineer
+>>>>>>> gopi
